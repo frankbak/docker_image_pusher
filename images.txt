@@ -6,3 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 #mysql
 --platform=linux/arm64/v8 arm64v8/mysql:latest
+#instock
+mayanghua/instock 
